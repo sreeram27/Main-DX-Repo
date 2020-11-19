@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssignmentRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assignmentRule>
+        <fullName>CaseAssnRuleAzLnCniaT</fullName>
+        <active>false</active>
+    </assignmentRule>
+    <assignmentRule>
+        <fullName>CaseAssnRuleCSrMBZNQIVjq</fullName>
+        <active>false</active>
+    </assignmentRule>
+    <assignmentRule>
+        <fullName>CaseAssnRuleGecyGFkq</fullName>
+        <active>false</active>
+    </assignmentRule>
+</AssignmentRules>
