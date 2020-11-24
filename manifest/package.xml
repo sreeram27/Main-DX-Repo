@@ -2,6 +2,12 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>49.0</version>
     <types>
+        <members>Class2L3YJE</members>
+        <members>Class2aCbu1</members>
+        <members>Class2jTarTT</members>
+        <members>Class2wyi</members>
+        <members>Class3535</members>
+        <members>Class40EKAtp</members>
         <members>ClassAGFUOKPLS</members>
         <members>ClassAPwPoF</members>
         <members>ClassAhmtCNbZo</members>
@@ -26,5 +32,17 @@
     <types>
         <members>Case</members>
         <name>AutoResponseRules</name>
+    </types>
+    <types>
+        <members>Folder1</members>
+        <members>Folder1/Accounts_Report_Reg_1_PMZ</members>
+        <members>Folder1/Accounts_Report_Reg_2_Dpa</members>
+        <members>Folder1/Folder2</members>
+        <members>Folder1/Folder2/New_Opportunities_Report_bY6</members>
+        <members>Folder1/Folder2/New_Opportunities_Report_vz5</members>
+        <members>Folder1/Folder2/nCino_Report1_Ms1</members>
+        <members>Folder1/New_Opportunities_Report_gOA</members>
+        <members>Folder1/New_Opportunities_Report_umi</members>
+        <name>Report</name>
     </types>
 </Package>
